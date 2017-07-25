@@ -1,4 +1,4 @@
-"id","title","link","type","alternate_terms"
+"id","label","link","iah_type","alternate_terms"
 "sh0000001","African Americans--Folklore","http://id.loc.gov/authorities/subjects/sh85001953","subject heading",
 "sh0000002","Huidobro, Vicente, 1893-1948","http://id.loc.gov/authorities/names/n50046033","subject heading",
 "sh0000003","Boccaccio, Giovanni, 1313-1375","http://id.loc.gov/authorities/names/n78087605","subject heading",
@@ -486,7 +486,7 @@
 "sh0000487","Symbolic interactionism","http://id.loc.gov/authorities/subjects/sh85131404","subject heading",
 "sh0000488","Synagogues","http://id.loc.gov/authorities/subjects/sh85131580","subject heading",
 "sh0000489","Tea","http://id.loc.gov/authorities/subjects/sh85132924","subject heading",
-"sh0000490","Teaching","http://id.loc.gov/authorities/subjects/sh85133052","subject heading",
+"sh0000490","Teaching","http://id.loc.gov/authorities/subjects/sh85133052","subject heading","pedagogy"
 "sh0000491","Technology","http://id.loc.gov/authorities/subjects/sh85133147","subject heading",
 "sh0000492","Technology--Information services","http://id.loc.gov/authorities/subjects/sh85133156","subject heading",
 "sh0000493","Terrorism","http://id.loc.gov/authorities/subjects/sh85134112","subject heading",
